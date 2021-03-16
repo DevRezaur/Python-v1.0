@@ -1,0 +1,16 @@
+Python Version 1.0
+
+Features:
+- Classic Snake Game
+- Can Store High Scores
+
+How to Play:
+- Click "Python V-1.0" to Play
+- Press "Up - Down - Left - Right" Key to Move the Snake
+- After Game Over Press "Enter" Key to Restart 
+
+Build Info:
+- Version: 1.0
+- Build Date: November 2019
+- Developed By: Rezaur Rahman
+- Contact Info: rezaur.official@gmail.com
