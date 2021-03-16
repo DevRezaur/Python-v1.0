@@ -1,6 +1,6 @@
 # Python - The Snake Game
 
-Beginner level snake game, made with Java. This was the very first project that I amde with Java.
+Beginner level snake game, made with Java. This was the very first project that I made with Java.
 That's why it's so speacial to me. I'm putting here it as a memory :smile:
 
 ### Screenshots
