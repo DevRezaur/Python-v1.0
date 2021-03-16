@@ -5,7 +5,7 @@ That's why it's so speacial to me. I'm putting here it as a memory :smile:
 
 ### Screenshots
 
-![Game](https://raw.githubusercontent.com/DevRezaur/Python-v1.0/main/Screenshots/Game.PNG)
+![Game](https://raw.githubusercontent.com/DevRezaur/Python-v1.0/main/Screenshots/Gameplay.PNG)
 
 ---
 
